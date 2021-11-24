@@ -1,6 +1,6 @@
 Cloud for AWS
 
-#Objetivo Criar uma vm na AWS usando terraform
+#Objetivo: Criar uma vm na AWS usando terraform
 
 Passos necessários:
 
