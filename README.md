@@ -1,4 +1,4 @@
-# cloudaws Cloud for AWS
+#Cloud for AWS
 
 #Objetivo Criar uma vm na AWS usando terraform
 
